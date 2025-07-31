@@ -1,0 +1,16 @@
+.opacity {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+    background-color: brown;
+    /* opacity: 0.3; */
+    box-shadow:5px 5px 10px black;
+
+}
+body{
+    background-color: antiquewhite;
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("./img/Programming\ wallpaper.jpg") */
+}
